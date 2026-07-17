@@ -1,8 +1,4 @@
 streamlit
 groq
 python-dotenv
-<<<<<<< HEAD
-fpdf
-=======
-fpdf
->>>>>>> 072f11db69f5c59efbc874c3f3754608bc58db93
+fpdf2
